@@ -1,17 +1,17 @@
 [
   {
     "action": "talk",
-    "text": "Please wait while we connect you"
+    "text": "Please wait while we connect you to the doctor"
   },
   {
     "action": "connect",
     "eventUrl": ["https://example.com/events"],
     "timeout": "45",
-    "from": "447700900000",
+    "from": "447520660907",
     "endpoint": [
       {
         "type": "phone",
-        "number": "447700900001",
+        "number": "447425064703",
         "dtmfAnswer": "2p02p"
       }
     ]
